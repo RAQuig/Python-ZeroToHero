@@ -54,8 +54,8 @@ python module1/01_variables_and_types.py
 # Run a Module 2 lesson file:
 python module2/01_lists_and_tuples.py
 
-```
-MIT License
+```bash
+# MIT License
 
 Copyright (c) 2026 RAQuig
 
