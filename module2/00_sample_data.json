@@ -1,0 +1,12 @@
+[
+    {
+        "category": "Food",
+        "amount": 12.50,
+        "description": "Lunch at school"
+    },
+    {
+        "category": "Entertainment",
+        "amount": 15.00,
+        "description": "Movie ticket"
+    }
+]
