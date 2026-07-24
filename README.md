@@ -5,7 +5,7 @@ A comprehensive Python course involving (currently) 4 modules.
 Welcome to our group Python learning repo! This course is structured from absolute beginner concepts to advanced software projects.
 
 ## 📂 Modules
-- **[Module 1: Python Essentials](./module-1-essentials/README.md)** (Current)
+- **[Module 1: Python Essentials](./module1/README.md)** (Current)
 - Module 2: Data Structures & File Handling (Coming Soon)
 - Module 3: OOP & APIs (Coming Soon)
 - Module 4: Frameworks & Real-World Apps (Coming Soon)
